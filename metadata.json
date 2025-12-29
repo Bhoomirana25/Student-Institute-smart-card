@@ -1,0 +1,7 @@
+{
+  "name": "EduSmart - Next-Gen Student Smart Card",
+  "description": "A comprehensive digital student identity and financial ecosystem with AI-powered document verification, UPI payments, and personalized campus assistance.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
